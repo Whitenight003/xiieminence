@@ -1,0 +1,126 @@
+`html
+
+<!DOCTYPE html>
+
+<html lang=”en”>
+
+<head>
+
+    <meta charset=”UTF-8”>
+
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+
+    <title>XII Eminence</title>
+
+    <style>
+
+        Body {
+
+            Background-color: black;
+
+            Color: white;
+
+            Font-family: Arial, sans-serif;
+
+            Margin: 0;
+
+            Padding: 0;
+
+        }
+
+        .container {
+
+            Max-width: 800px;
+
+            Margin: 0 auto;
+
+            Padding: 20px;
+
+        }
+
+        Header {
+
+            Text-align: center;
+
+            Padding: 50px 0;
+
+        }
+
+        Header h1 {
+
+            Margin: 0;
+
+            Font-size: 3em;
+
+        }
+
+        Section {
+
+            Margin: 20px 0;
+
+        }
+
+        Footer {
+
+            Text-align: center;
+
+            Padding: 20px 0;
+
+            Background-color: #222;
+
+        }
+
+        A {
+
+            Color: #ff9900;
+
+            Text-decoration: none;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class=”container”>
+
+        <header>
+
+            <h1>XII Eminence</h1>
+
+            <p>Your journey to excellence begins here</p>
+
+        </header>
+
+        <section>
+
+            <h2>About Us</h2>
+
+            <p>XII Eminence is a brand dedicated to bringing you the finest in fashion and lifestyle. Our mission is to empower individuals to express their unique style and confidence through our exclusive collections.</p>
+
+        </section>
+
+        <section>
+
+            <h2>Contact Us</h2>
+
+            <p>Have questions or need assistance? Reach out to us at <a href=mailto:xiieminence@gmail.com>xiieminence@gmail.com</a>.</p>
+
+        </section>
+
+        <footer>
+
+            <p>© 2024 XII Eminence. All rights reserved.</p>
+
+        </footer>
+
+    </div>
+
+</body>
+
+</html>
+
+```
+
